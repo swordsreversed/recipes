@@ -1,4 +1,4 @@
-**Coconut Beef Curry – Sherwood Organics**
+### Coconut Beef Curry – Sherwood Organics
 
  - 1 TBsp coconut oil / ghee
  - 500g beef chuck cut into cubes
@@ -30,6 +30,7 @@ bnV0IG9pbCAvIGdoZWUifX0sImNvbW1lbnRzIjp7IjBLWUhXbV
 pUM1NudkJxbDMiOnsiZGlzY3Vzc2lvbklkIjoiaVJuRVV4WVB3
 N2s4SUVLQyIsInN1YiI6ImdvOjEwNDU4MTM4NDYyOTA2NDAwMT
 E3MyIsInRleHQiOiJJJ3ZlIG5ldmVyIHRyaWVkIGdoZWUhIiwi
-Y3JlYXRlZCI6MTU3MzE4NjYzMDkwMH19LCJoaXN0b3J5IjpbLT
-EyOTY5MjQ4OSwxNjQwMDY4MjE1LC0xMjI3ODgzNzMwXX0=
+Y3JlYXRlZCI6MTU3MzE4NjYzMDkwMH19LCJoaXN0b3J5IjpbNj
+QyMjI5MzM4LC0xMjk2OTI0ODksMTY0MDA2ODIxNSwtMTIyNzg4
+MzczMF19
 -->
